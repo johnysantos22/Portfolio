@@ -52,6 +52,11 @@ li:hover {
 
 }
 
+.link-menu:hover {
+    color: rgb(244, 99, 69);
+    transition: 0, 05s;
+}
+
 .meu-nome {
     color: white;
     position: absolute;
